@@ -1,0 +1,20 @@
+"posts" : [
+  {
+    "id": 1,
+    "image": "img2",
+    "author":"Chris Danny",
+    "category": "Code",
+   " date": "Mar 04 21",
+    "body":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quos eaque enim blanditiis ab, rerum eveniet exercitationem odit recusandae, itaque nihil quae quia obcaecati doloremque voluptate ullam? Soluta corporis nam quasi excepturi aperiam pariatur quibusdam at adipisci, ipsa, consequatur dolor ut iste, molestiae neque veritatis quidem ipsam magni inventore ipsum!",
+  },
+  {
+    "id": 2,
+    "image": "img2",
+    "author":"John Doe",
+    "category": "Code",
+   " date": "Mar 04 21",
+    "body":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quos eaque enim blanditiis ab, rerum eveniet exercitationem odit recusandae, itaque nihil quae quia obcaecati doloremque voluptate ullam? Soluta corporis nam quasi excepturi aperiam pariatur quibusdam at adipisci, ipsa, consequatur dolor ut iste, molestiae neque veritatis quidem ipsam magni inventore ipsum!",
+  },
+]

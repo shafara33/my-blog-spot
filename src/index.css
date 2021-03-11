@@ -1,13 +1,94 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.text {
+  background: white;
+  color: ;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.hero-text {
+  font-family: 'Cooper Black';
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+ul > li > a {
+  color: white;
+  font-family: verdana;
+}
+
+ul > li > a:hover {
+  color: gold;
+}
+
+.company-name {
+  color: gold;
+  font-family: forte;
+  font-size: 35px;
+}
+
+.text-head {
+  color: black;
+}
+
+.blog-heading {
+  color: maroon;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: forte;
+}
+
+.back {
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: lightyellow;
+  /* background-image: url('./project-images/cloud-bg.jpg'); */
+}
+/* 
+.sign {
+  background: darkslategray;
+  max-width: fit-content;
+  color: white;
+  border-left: 30px solid maroon;
+} */
+
+.latest-posts {
+  font-family: verdana;
+  font-weight: bolder;
+}
+.navbar {
+  background: rgb(172, 86, 55);
+}
+
+.credit {
+  background: rgb(170, 170, 170);
+  color: rgb(112, 36, 9);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.blog-content {
+  transition: padding-left 0.2s linear;
+  transition: padding-right 0.2s linear;
+}
+
+.blog-content:hover {
+  background-color: rgb(248, 248, 207);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.create-blog {
+  background: rgb(172, 86, 55);
+  color: white;
+}
+
+label {
+  font-weight: 500;
+}
+
+.home-text {
+  font-family: 'cooper black';
+  font-weight: bolder;
+  font-size: 60px;
+  color: darkslategray;
+  text-transform: uppercase;
 }
